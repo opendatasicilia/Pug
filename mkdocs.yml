@@ -1,6 +1,6 @@
 ## Project information
 site_name:  Direttive Generali per la formazione del Piano Urbanistico Generale | Comune di Palermo
-site_url: https://opendatasicilia.github.io/Pug
+site_url: https://github.com/opendatasicilia/Pug
 site_author: gbvitrano
 site_description: Direttive Generali per la formazione del Piano Urbanistico Generale
    
@@ -75,7 +75,7 @@ extra:
   consent:
     title: Consenso ai cookie
     description: >-
-       <b>Questo sito, utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.</b> <br>Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il  consenso a tutti o ad alcuni cookie, consulta l&rsquo;<a href="https://opendatasicilia.github.io/Parco_Sperone/privacy/" title="Informativa privacy estesa" target="_parent">informativa</a>!
+       <b>Questo sito, utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.</b> <br>Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il  consenso a tutti o ad alcuni cookie, consulta l&rsquo;<a href="https://opendatasicilia.github.io/Pug/privacy/" title="Informativa privacy estesa" target="_parent">informativa</a>!
     cookies:
       analytics:
         name: Google Analytics
