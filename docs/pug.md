@@ -1,13 +1,13 @@
 ---
 hide:
-  - navigation
+ # - navigation
  # - toc
 social_image: assets/img/social/social_card.jpg 
 ---
 
 # Direttive Generali per la formazione del Piano Urbanistico Generale
 
-## 1. IL PIANO URBANISTICO GENERALE: VERSO “PALERMO +”
+## 1.	Il piano urbanistico generale: verso “palermo +”
 
 Palermo è una città metropolitana e capoluogo regionale che ha l’ambizione di svilupparsi in
 maniera sostenibile, conservando e valorizzando le sue profonde identità culturali, sociali e
@@ -227,7 +227,7 @@ supporti la visione, che agevoli il contributo delle imprese, che incrementi l�
 investimenti, che garantisca la sicurezza e la qualità dei luoghi, che rafforzi tutti i diritti di
 cittadinanza.
 
-## 2. LE RAGIONI E LE OPPORTUNITA’ DI UN PIANO URBANISTICO GENERALE
+## 2. Le ragioni e le opportunita’ di un piano urbanistico generale
 
 Le Direttive del **Piano Urbanistico Generale** sono state elaborate sulla base di una
 valutazione di sintesi dei trend sociali ed economici della città e del suo contesto metropolitano
@@ -999,7 +999,7 @@ competenze nell’ambito dell’Ufficio di Piano, al fine di fornire impulso e t
 formazione del nuovo strumento, anche attraverso apposite convenzioni con il mondo della
 ricerca e delle professioni tecniche.
 
-## 3. AGENDA PALERMO +: LA VISIONE E GLI ASSI DI SVILUPPO
+## 3. Agenda Palermo +: la visione e gli assi di sviluppo
 
 La città di Palermo intende esercitare pienamente il nuovo ruolo di capoluogo della Città
 Metropolitana di riferimento per tutta la Sicilia occidentale e, quindi, assumere nuova spinta
@@ -1366,7 +1366,7 @@ azioni, complesse e integrate, traguardate verso i seguenti macro-obiettivi:
 - realizzate spazi accessibili alle persone con disabilità promuovendo interventi mirati
     alla eliminazione delle barriere architettoniche.
 
-## 4. GLI AMBITI STRATEGICI GENERALI DEL PUG
+## 4. Gli ambiti strategici generali del pug
 
 Il **Piano Urbanistico Generale di Palermo** dovrà prefigurare una città più funzionale, più
 competitiva, più attenta all’ambiente e alla qualità della vita, più bella e sicura e più attrattiva
@@ -1518,7 +1518,7 @@ eccellenza. Le azioni strategiche che il PUG dovrà approfondire sono:
 -^ conversione delle aree produttive ex IRSAP in aree produttive ecologicamente ed
     energicamente sostenibili.
 
-## 5. PIANO URBANISTICO GENERALE “PALERMO +”: DIRETTIVE GENERALI PER LE AZIONI E I PROGETTI
+## 5. Piano urbanistico generale “palermo +”: direttive generali per le azioni e i progetti
 
 I quattro scenari dell’ **Agenda “Palermo +”** guidano la visione di una città metropolitana della
 qualità, resiliente, innovativa e interconnessa, e i relativi ambiti strategici e ne definiscono le
@@ -2559,7 +2559,7 @@ e condivisione di questo documento e nel negoziato con i portatori di interesse 
 redazione del PUG che verranno dettagliate le modalità di attuazione delle proposte e
 individuate le fonti finanziarie necessarie e le risorse che possono scaturire dalla corretta attuazione degli obiettivi.
 
-## 6. IL PROCESSO DI FORMAZIONE DEL PUG
+## 6. Il processo di formazione del pug
 
 Come disposto al comma 1 dell’art. 26 della L.R. 19/2020, “ _il PUG è redatto dal comune ed è
 adottato ed approvato dal consiglio comunale secondo la procedura di seguito specificata,
@@ -2730,7 +2730,7 @@ simulazione e analisi di scenari di emergenza, come alluvioni, terremoti o crisi
 possono aiutare l’amministrazione a progettare soluzioni per rendere la città più resiliente e
 antifragile.
 
-## 7. LA SOSTENIBILITA’ DELLE PREVISIONI DI SVILUPPO
+## 7. La sostenibilità delle previsioni di sviluppo
 
 Il nuovo PUG dovrà farsi carico, all’interno delle norme vigenti, di trovare soluzioni adeguate
 a risolvere il problema della sperequazione tra le aree e, inoltre, dovrà prevedere una gamma
@@ -2770,7 +2770,7 @@ In tal modo, sarà possibile rendere le previsioni concretamente attuabili e con
 - monitorare costantemente l’attuazione del Piano, anche attraverso la
     georeferenziazione e l’impiego di strumenti informativi dinamici.
 
-## 8. LA PIANIFICAZIONE ATTUATIVA
+## 8. La pianificazione attuativa
 
 Il PUG recepisce e pianifica i piani particolareggiati relativi alle porzioni di zona E2
 caratterizzate da costruzioni individuate nel vigente PRG (Ambiti), previa analisi del contesto
@@ -3055,7 +3055,7 @@ recupero e sviluppo che ne indebolirebbe l’impatto, ne ridurrebbe i benefici, 
 le criticità d’uso e, infine, allontanerebbe nel tempo il ritorno dell’investimento delle risorse
 pubbliche e di quelle dei partner e investitori privati interessati.
 
-## 9. LA PARTECIPAZIONE ALLA FORMAZIONE DEL PIANO
+## 9. La partecipazione alla formazione del piano
 
 Nella dimensione dialogica ex ante “la partecipazione del pubblico al processo decisionale è il
 presupposto per realizzare la sostenibilità” come recita la Comunicazione della Commissione
@@ -3137,7 +3137,7 @@ della comunità. Infine, l’IA può essere utilizzata anche per individuare le 
 architettoniche per le persone con disabilità sparse per la città, per rimuoverle e, soprattutto,
 per progettare ambienti urbani più accessibili.
 
-## 10. UFFICIO PROGETTAZIONE E GESTIONE DEL PUG E DELLE FASI ATTUATIVE
+## 10. Ufficio progettazione e gestione del pug e delle fasi attuative
 
 L’elaborazione del PUG, in tutte le fasi del processo di formazione, verrà curato dall’Ufficio del
 Piano, incardinato nell’Area della Pianificazione Territoriale, coordinato dal Responsabile del

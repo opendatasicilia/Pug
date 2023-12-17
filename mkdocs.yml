@@ -177,4 +177,14 @@ markdown_extensions:
 # menu
 nav:
   - Home: index.md
-  - Direttive Generali - Piano Urbanistico Generale: pug.md
+  - Direttive Generali Piano Urbanistico Generale: 
+     - 1. Il piano urbanistico generale verso “Palermo +”: cap_01.md
+     - 2. Le ragioni e le opportunita’ di un piano urbanistico generale: cap_02.md
+     - 3. Agenda Palermo + la visione e gli assi di sviluppo:  cap_03.md
+     - 4. Gli ambiti strategici generali del PUG: cap_04.md
+     - 5. Piano urbanistico generale “Palermo +” direttive generali per le azioni e i progetti: cap_05.md
+     - 6. Il processo di formazione del PUG: cap_06.md
+     - 7. La sostenibilità delle previsioni di sviluppo: cap_07.md
+     - 8. La pianificazione attuativa: cap_08.md
+     - 9. La partecipazione alla formazione del piano: cap_09.md
+     - 10. Ufficio progettazione e gestione del PUG e delle fasi attuative: cap_10.md
