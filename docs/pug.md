@@ -2,6 +2,7 @@
 hide:
   - navigation
  # - toc
+social_image: assets/img/social/social_card.jpg 
 ---
 
 # Direttive Generali per la formazione del Piano Urbanistico Generale

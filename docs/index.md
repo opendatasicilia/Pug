@@ -2,10 +2,7 @@
 hide:
   - navigation
   - toc
-Title: Direttive Generali per la formazione del Piano Urbanistico Generale
 social_image: assets/img/social/social_card.jpg
-
-
 ---
 
 # Approvate dalla Giunta le direttive generali per il Piano Urbanistico Generale di Palermo. Al via il dibattito pubblico sulla nuova idea di città
