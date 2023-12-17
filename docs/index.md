@@ -1,3 +1,13 @@
+---
+hide:
+  - navigation
+  - toc
+Title: Direttive Generali per la formazione del Piano Urbanistico Generale
+social_image: assets/img/social/social_card.jpg
+
+
+---
+
 # Approvate dalla Giunta le direttive generali per il Piano Urbanistico Generale di Palermo. Al via il dibattito pubblico sulla nuova idea di città
 
 Nella seduta di Giunta comunale del 15 dicembre 2023, presieduta dal Sindaco Roberto Lagalla, è stato approvato l’atto di indirizzo che approva le Direttive Generali per il Piano Urbanistico Generale di Palermo, le quali avviano la nuova stagione urbanistica della città utilizzando la nuova legge regionale sul governo del territorio. Una stagione di ampio e partecipato dibattito politico e tecnico, culturale ed economico, sociale e ambientale che consentirà di pervenire alla redazione di un nuovo piano urbanistico di Palermo che sia capace di guidare la città nell’orizzonte operativo del 2030 e in quello strategico del 2050.
@@ -25,7 +35,3 @@ Gli interventi di rigenerazione urbana serviranno anche a potenziare e qualifica
 Ringrazio l’Assessore Carta e i suoi uffici per aver portato in approvazione le Direttive Generali del PUG che incarnano la visione urbanistica che insieme alla Giunta in questi mesi abbiamo messo a punto attraverso un’accurata diagnosi dei problemi, l’ascolto della cittadinanza e dei portatori di interesse e l’interpretazione delle opportunità in atto che le risorse extra-comunali stanno offrendo. Con questo atto si avvia un processo politico e urbanistico che porterò nei quartieri, nelle istituzioni, nelle aule di governo, persino nelle scuole e nei teatri se servirà perché il futuro della città riguarda tutti e ciascuno e discutere delle scelte urbanistiche è un diritto ma anche un dovere civico”, afferma il Sindaco Roberto Lagalla
 
 **[Scarica le Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) del Comune di Palermo](https://www.comune.palermo.it/js/server/uploads/_16122023090556.pdf "Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) del Comune di Palermo")**
-
-Fonte [Comunicato stampa del Comune di Palermo del 16.12.2023](https://www.comune.palermo.it/palermo-informa-dettaglio.php?tp=1&id=39428)
-
-[![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)

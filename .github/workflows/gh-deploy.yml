@@ -1,0 +1,44 @@
+name:  gh-deploy 
+on:
+  push:
+    branches: 
+      - main
+    paths:
+      - docs/**
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          sparse-checkout: |
+            docs
+            includes
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      - uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: |
+            mkdocs-material-
+      - run: pip install markdown>=3.2
+      - run: pip install mkdocs>=1.2.3      
+      - run: pip install mkdocs-material
+      - run: pip install mkdocs-material-extensions>=1.0
+      - run: pip install mkdocs-macros-plugin
+      - run: pip install mkdocs-click
+      - run: pip install mkdocs-table-reader-plugin
+      - run: pip install Pygments>=2.4
+      - run: pip install pymdown-extensions>=9.0
+      - run: pip install mkdocs-rss-plugin
+      - run: pip install mkdocs-tooltips
+      - run: pip install pillow cairosvg
+      - run: pip install mkdocs-glightbox
+      - run: pip install mkdocstrings
+      - run: mkdocs gh-deploy --force

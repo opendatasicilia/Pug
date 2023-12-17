@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="it">
+    <head>
+<title>Elenco elaborati progetto Parco a mare allo Sperone del Comune di Palermo</title> 
+       <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="description" content="Palermo hub db">       
+        <meta http-equiv="content-language" content="IT">
+        <meta name="robots" content="noindex,nofollow">
+
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+
+
+	<!-- CSS Palermo hub  -->
+<link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+<link href="assets/dist/css/style.css" rel="stylesheet">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+
+<style type="text/css">
+body {
+	/*background-color: #FFFFFF;*/
+	overflow-x:hidden;
+	}
+img {border-radius: 5px;  -moz-border-radius: 5px;  -webkit-border-radius: 5px;border: 1px solid #ccc;background-color:#fff; padding:1px; box-shadow: 0 2px 5px rgba(0,0,0,0.2) } 
+img:hover {opacity: 1;  -webkit-filter: grayscale(100%); }
+
+/* immagine no bordo/ no ombra */
+.immagonobox {box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}	
+
+.header {
+  position: fixed;
+  top: 0px;
+  z-index: 10000;
+  width: 100%;
+  background-color: transparent;
+}
+
+/* The progress container (grey background) */
+.progress-container {
+  width: 100%;
+  height: 4px;
+  background: transparent;
+}
+
+/* The progress bar (scroll indicator) */
+.progress-bar {
+  height: 4px;
+  background: #ff9900;
+  width: 0%;
+}
+</style>
+
+    <!-- Fav and touch icons -->
+    <link rel="apple-touch-icon-precomposed" sizes="144x144" href="img/apple-touch-icon-144-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" href="img/apple-touch-icon-57-precomposed.png">
+    
+ <!-- Script -->
+<script type="text/javascript" src="assets/dist/jquery.min.js"></script>  
+<script type="text/javascript" src="assets/dist/bootstrap.min.js"></script>
+<script type="text/javascript" src="assets/dist/scripts.js"></script>
+
+<!-- progress bar --> 
+<script>
+// When the user scrolls the page, execute myFunction 
+window.onscroll = function() {myFunction()};
+
+function myFunction() {
+  var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+  var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+  var scrolled = (winScroll / height) * 100;
+  document.getElementById("myBar").style.width = scrolled + "%";
+}
+</script>
+
+ <!-- exhibit catalogo --> 
+<link rel="exhibit/data" 
+    type="text/csv"
+	ex:valueSeparator=","
+    href="https://docs.google.com/spreadsheets/d/e/2PACX-1vTm4pS3z7T-sA9YJ09M2GJpIQGSiL91vt2qkK3Wod0bYNHKCbrcWy-LzVlkcYqyUNN7tEZPKswdNbS5/pub?gid=715379273&single=true&output=csv"     />
+
+ <script src="assets/dist/exhibit-api.js?locale=it"></script>
+
+    <script type="text/javascript">
+    var tableStyler = function(table, database) {
+    	$(table).addClass("table table-condensed table-striped");
+    };
+    </script>	  
+	  <!-- fine exhibit catalogo -->  
+</head>
+
+<!-- Qui Progress bar) --> 
+<div class="header">
+  <div class="progress-container">
+    <div class="progress-bar" id="myBar"></div>
+  </div>
+</div>
+<body>
+<!-- Primo blocco --> <br>
+  <section id="catalogo">
+      <div class="row">
+        <div class="col-lg-12 mx-auto">
+          		 <img  class="no_desk" src="https://img.shields.io/badge/Cerca-le parole chiave -%23ff9900" title="Cerca le parole chiave e ti fornisco risposte immediate" />
+			 <img  class="no_mobile" src="https://img.shields.io/badge/Cerca le parole chiave-e%20ti%20fornisco%20risposte%20immediate-%23ff9900" title="Cerca le parole chiave e ti fornisco risposte immediate" /> <br><br>
+			<div ex:role="facet" ex:facetClass="TextSearch"></div>
+			</div> <br> 
+
+	<!-- blocco ricerca catalogo   -->
+<div class="col-md-12 column">
+<div class="row clearfix">
+			<div class="col-md-7 column">
+				<div ex:role="facet" 
+				ex:facetClass="Cloud"
+				ex:expression=".tag" 
+				ex:facetLabel="Tag"
+				ex:sortMode="count"></div>
+			</div>
+			<div class="col-md-3 column">
+				<div ex:role="facet" 
+				ex:expression=".categoria" 
+				ex:facetLabel="Tipologia elaborato"
+				ex:missingLabel="Non specificato"
+				ex:sortMode="count">
+				</div>
+			</div>
+			<div class="col-md-2 column">
+				<div ex:role="facet" 
+				ex:expression=".elaborati" 
+				ex:facetLabel="Elaborato"
+				ex:missingLabel="altro"
+				ex:sortMode="count">
+				</div>
+			</div>
+		</div>
+		<!--tabella  --><br>
+		<div class="row clearfix">
+			<div class="col-md-12 column">
+	<div class="no_mobile" ex:role="viewPanel" style="padding: 0in;">
+	<div ex:role="exhibit-view" 
+	ex:viewClass="Exhibit.TabularView"  
+	ex:label="Table"  
+	ex:columns=".titolo,.elaborati,.categoria,.immago"  
+	ex:columnLabels="Elaborato, Tavola, Immagine, Tipologia elaborato" 
+	ex:columnFormats="list,list,list"
+	ex:sortColumn="5"
+	ex:sortAscending="false"
+	ex:tableStyler="tableStyler"> 
+	<div ex:role="exhibit-lens">
+	<div class="table-responsive ">
+	<table class="table">
+	<tr>
+	<td><a ex:href-content=".URL" ex:title-content=".elaborati" ex:onclick-subcontent="trackOutboundLink('.URL'); return false;" target="_blank"><strong><span class="btn btn-warning btn-xs" ex:content=".elaborati"></strong></span></a></td> 
+	<td><a ex:href-content=".URL" ex:title-content=".titolo" ex:onclick-subcontent="trackOutboundLink('.URL'); return false;" target="_blank"><strong><span ex:content=".titolo"></strong></span></a></td> 
+		 <td ><a ex:href-content=".URL" ex:title-content=".titolo"  ex:onclick-subcontent="trackOutboundLink('.URL'); return false;" target="_parent"><strong><span ex:content=".immago" class="clip_tooltips"></span></strong></a></td>
+	
+		<!-- <td><span class="btn btn-warning btn-xs" ex:content=".elaborati"></span></td> -->
+	<td><span  ex:content=".categoria"></span></td>
+
+	</tr>
+	</table> 
+	</div>
+	</div></div></div>
+		<!-- tabella solo mobile -->
+	<div class="no_desk" ex:role="viewPanel" style="padding: 0in;">
+	<div ex:role="exhibit-view" 
+	ex:viewClass="Exhibit.TabularView"  
+	ex:label="Table"  
+	ex:columns=".elaborati,.titolo,.immago"  
+	ex:columnLabels="Elaborato, Tavola, Immagine," 
+	ex:columnFormats="list,list"
+	ex:sortColumn="3"
+	ex:sortAscending="false"
+	ex:tableStyler="tableStyler"> 
+	<div ex:role="exhibit-lens">
+	<div class="table-responsive ">
+	<table class="table">
+	<tr>
+	<td><a ex:href-content=".URL" ex:title-content=".elaborati" ex:onclick-subcontent="trackOutboundLink('.URL'); return false;" target="_blank"><strong><span class="btn btn-warning btn-xs" ex:content=".elaborati"></strong></span></a></td> 
+	<td><a ex:href-content=".URL" ex:title-content=".titolo" ex:onclick-subcontent="trackOutboundLink('.URL'); return false;" target="_blank"><strong><span ex:content=".titolo"></strong></span></a></td> 
+		 <td ><a ex:href-content=".URL" ex:title-content=".titolo"  ex:onclick-subcontent="trackOutboundLink('.URL'); return false;" target="_parent"><strong><span ex:content=".immago" class="clip_tooltips"></span></strong></a></td>
+	</tr>
+	</table> 
+	</div>
+	</div></div></div>
+		<br></div>
+	<!-- fine blocco ricerca catalogo -->
+
+</body>
+</html>

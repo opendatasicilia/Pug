@@ -1,0 +1,181 @@
+## Project information
+site_name:  Direttive Generali per la formazione del Piano Urbanistico Generale | Comune di Palermo
+site_url: https://opendatasicilia.github.io/Pug
+site_author: gbvitrano
+site_description: Direttive Generali per la formazione del Piano Urbanistico Generale
+   
+## Repository
+# repo_name: PUG
+# repo_url: https://github.com/opendatasicilia/Pug
+# edit_uri: edit/main/docs/ #disables edit button
+
+
+# Copyright
+copyright: Rielaborazione della comunità <a href="https://opendatasicilia.it/"><b>OpenDataSicilia</b></a> <br> <b>Disclaimer:</b> Le informazioni visibili e condivise non comportano la visualizzazione di dati sensibili.<br> Data la natura esclusivamente informativa degli elaborati grafici e dei testi riportati, questi non costituiscono atti ufficiali.<br> Per accedere agli atti ufficiali si rinvia agli elaborati definitivi allegati alle specifiche deliberazioni.
+
+theme:
+  name: material
+  highlightjs: true
+  language: it
+  palette:
+    primary: white
+    accent: #4980bb
+
+  language: it
+  favicon: assets/img/favicon.png
+  icon:
+    annotation: material/star-four-points-circle
+    admonition:
+      note: octicons/tag-16
+      abstract: octicons/checklist-16
+      info: octicons/info-16
+      tip: octicons/squirrel-16
+      success: octicons/check-16
+      question: octicons/question-16
+      warning: octicons/alert-16
+      failure: octicons/x-circle-16
+      danger: octicons/zap-16
+      bug: octicons/bug-16
+      example: octicons/beaker-16
+      quote: octicons/quote-16
+    tag:
+      default: material/tag
+      html: fontawesome/brands/html5
+      js: fontawesome/brands/js
+      css:  fontawesome/brands/css3    
+      Incendi: fontawesome/solid/fire
+      
+  logo: assets/img/acquila.png
+  
+  features:
+  #  - toc.integrate
+    - toc.follow
+    - navigation.top
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tracking
+    - navigation.indexes
+    - content.code.annotate
+    - content.action.edit
+    - content.action.view
+    - navigation.footer
+
+  font:
+    text: Nunito Sans
+    code: Fira Code
+  custom_dir: 'docs/assets/overrides'
+  static_templates:
+    - 404.html
+extra:
+# Google analytics
+  analytics:
+    provider: google
+    property: G-Y2YZ7RDXWM
+# Consenso ai cookie     
+  consent:
+    title: Consenso ai cookie
+    description: >-
+       <b>Questo sito, utilizza i cookie, anche di terze parti, per migliorare la vostra esperienza di navigazione web.</b> <br>Chiudendo questo messaggio, scorrendo questa pagina o cliccando su qualunque suo elemento acconsenti all&rsquo;uso dei cookie.<br> Per maggiori informazioni o per negare il  consenso a tutti o ad alcuni cookie, consulta l&rsquo;<a href="https://opendatasicilia.github.io/Parco_Sperone/privacy/" title="Informativa privacy estesa" target="_parent">informativa</a>!
+    cookies:
+      analytics:
+        name: Google Analytics
+        checked: true
+    actions:
+      - accept
+      - manage   
+ 
+  social:
+    - icon: ods
+      link: http://opendatasicilia.it/
+      name: opendatasicilia.it  
+    - icon: fontawesome/brands/github
+      link: https://github.com/coseerobe/coseerobe.github.io
+      name: Repository GitHub  
+    - icon: fontawesome/solid/envelope
+      link: mailto:coseerobe.gbvitrano@gmail.com
+      name: coseerobe.gbvitrano@gmail.com
+    - icon: fontawesome/brands/twitter
+      link: http://twitter.com/gbvitrano
+      name: Twitter
+    - icon: fontawesome/brands/facebook
+      link: https://www.facebook.com/gbvitrano
+      name: Facebook      
+    - icon: fontawesome/solid/rss
+      link: https://arigadicomando.it/feed_rss_created.xml
+      name: Feed RSS
+    - icon: fontawesome/brands/creative-commons
+      link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
+      name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)     
+     
+         
+plugins:
+- search:
+      lang: it
+- glightbox:
+      auto_caption: true 
+- mkdocstrings
+
+
+ # foglio di stile personalizzato
+extra_css:
+  - assets/stylesheets/gbextra.css
+ 
+  
+extra_javascript:
+  - https://unpkg.com/mermaid/dist/mermaid.min.js
+  - assets/javascripts/varie.js
+  - assets/javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdn.jsdelivr.net/npm/vega@5
+  - https://cdn.jsdelivr.net/npm/vega-lite@5
+  - https://cdn.jsdelivr.net/npm/vega-embed@6
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - footnotes
+  - meta
+  - mkdocs-click
+  - pymdownx.betterem:
+        smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic:
+        mode: view
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+      options:
+        custom_icons:
+          - overrides/.icons       
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+        custom_fences:
+          - name: mermaid
+            class: mermaid
+            format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+        alternate_style: true
+  - def_list      
+  - pymdownx.tasklist:
+        custom_checkbox: true
+        clickable_checkbox: true
+  - pymdownx.tilde
+  - toc:
+        permalink: true
+        toc_depth: 3
+  - pymdownx.arithmatex:
+        generic: true
+  - pymdownx.keys
+    
+# menu
+nav:
+  - Home: index.md
+  - Direttive Generali - Piano Urbanistico Generale: pug.md

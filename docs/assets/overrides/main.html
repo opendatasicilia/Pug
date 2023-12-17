@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block announce %}
+  <!-- Add announcement here, including arbitrary HTML -->
+   <!-- <p>Iscriviti alla <b><a style="color:#ff9100 !important;" href="https://ondata.substack.com/">newsletter di onData</a></b>
+    <span class="twemoji">
+        {% include ".icons/material/email.svg" %}
+    </span>
+  </p>  -->
+{% endblock %}
+{% block libs %}
+<!-- progress bar page	-->
+{% include "partials/bar.html" %}
+{{ super() }}
+
+{% endblock %}
+
+<!-- blocco meta tag e social -->
+{% block extrahead %} 
+<!-- Social card -->	 
+{% include "partials/social_card.html" %}
+{% endblock %}
+
+{% block scripts %}
+{{ super() }}
+<!-- script bottom	-->
+{% endblock %}
