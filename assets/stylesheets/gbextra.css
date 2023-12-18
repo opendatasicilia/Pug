@@ -65,3 +65,9 @@ img.nobox {box-shadow: none !important; border: none !important;	border-radius: 
 
 @media (min-width: 240px) and (max-width: 730px) {.no_mobile {display:none!important; visibility:hidden!important;}}
 @media (min-width: 730px) {.no_desk { display:none!important; visibility:hidden!important;}}
+
+  .centro {
+      display:block;
+      margin:0px auto;
+      text-align:center;
+      }
