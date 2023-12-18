@@ -6,8 +6,9 @@ social_image: assets/img/social/social_card.jpg
 Palermo è una città metropolitana e capoluogo regionale che ha l’ambizione di svilupparsi in
 maniera sostenibile, conservando e valorizzando le sue profonde identità culturali, sociali e
 paesaggistiche e diventando una città contemporanea ed attrattiva, creativa e solidale, sicura
-e produttiva, capace di competere efficacemente nello scenario Europeo e Mediterraneo. Per
-perseguire questa visione serve una nuova idea urbanistica e il **Piano Urbanistico Generale
+e produttiva, capace di competere efficacemente nello scenario Europeo e Mediterraneo.
+ 
+Perperseguire questa visione serve una nuova idea urbanistica e il **Piano Urbanistico Generale
 (PUG)** è lo strumento di pianificazione necessario per concretizzare la forma spaziale e
 l’ordinamento normativo di tale idea, capace di agire nell’orizzonte operativo del 2030 e in
 quello strategico del 2050. Il Piano Urbanistico Generale di Palermo sarà redatto secondo i
@@ -31,6 +32,7 @@ Mediterraneo, di città della cultura, attrattiva per gli investimenti, e capace
 delle transizioni digitale, energetica ed ecologica. Il metodo sarà quello dell’ascolto dei cittadini
 per il censimento dei bisogni e dei portatori di interessi di pubblica utilità, nonché la
 concertazione con gli enti pubblici e morali per una efficace governance dello sviluppo.
+
 Verranno introdotti anche nuovi strumenti complementari per la valorizzazione della città e
 della sua reputazione attraverso un processo di internazionalizzazione, da un lato, e
 l’attivazione di strumenti (come gli oneri e i diritti edificatori, le misure perequative, i certificati
@@ -90,39 +92,41 @@ funzione di fornitrice di servizi alla cittadinanza e alle imprese, ma deve trad
 di essere soggetto attivo per la qualità ambientale e culturale, per la coesione sociale e
 l’integrazione multietnica, per le pari opportunità, per la sostenibilità economica, per la
 transizione ecologica ed energetica e la mobilità sostenibile e per l’attrattività di risorse per il
-progetto complessivo di futuro. Deve, quindi, essere una città che guardi alle diverse comunità
-che la abitano o la attraversano, che ne vivono la quotidianità o la temporaneità, e si impegni
-a soddisfare la domanda di tutti i suoi cittadini, effettivi e potenziali, locali e globali, comunali e
-metropolitani, consumatori e produttori, stabili o temporanei. Si tratta quindi di dare a Palermo
-una nuova idea urbanistica, e conseguente forma, in grado di generare ricchezza a livello
+progetto complessivo di futuro. 
+
+Deve, quindi, essere una città che guardi alle diverse comunità che la abitano o la attraversano, 
+che ne vivono la quotidianità o la temporaneità, e si impegnia soddisfare la domanda di tutti i suoi cittadini, 
+effettivi e potenziali, locali e globali, comunali e metropolitani, consumatori e produttori, stabili o temporanei.
+
+Si tratta quindi di dare a Palermo una nuova idea urbanistica, e conseguente forma, in grado di generare ricchezza a livello
 locale attingendo in maniera efficace alle cospicue risorse extra-comunali e capace di
 alimentare nuove domande di trasformazione creativa compatibili con le risorse e sostenibili
 dal punto di vista ambientale.
 
 La nuova governance, guidata dal Sindaco Roberto Lagalla, vuole tracciare una visione
 urbana chiara, forte e condivisa che sia alla base di un’agenda attiva di politiche, processi e
-progetti capaci di guidare la città – quotidianamente e monitorandone impatti, scostamenti e
-variazioni – nell’orizzonte strategico, almeno, dei prossimi 2 5 anni.
+progetti capaci di guidare la città quotidianamente e monitorandone impatti, scostamenti e
+variazioni nell’orizzonte strategico, almeno, dei prossimi 25 anni.
 
 Per guidare questa visione serve un’agenda delle strategie e dell’urbanistica nell’orizzonte
-operativo del 20 3 0 che consentiranno di aumentare le dotazioni urbane: più qualità, più
+operativo del 2030 che consentiranno di aumentare le dotazioni urbane: più qualità, più
 prestazioni, più diritti, più opportunità, più attrattività, più innovazione e più sostenibilità della
 città. 
 
-L’ **Agenda “Palermo** +”, quindi, è un programma di azioni orientate al futuro e declinate
+L’**Agenda “Palermo** +”, quindi, è un programma di azioni orientate al futuro e declinate
 dal punto di vista urbanistico nel presente documento di Direttive Generali, approvato dalla
 Giunta Comunale per essere le linee generali di indirizzo della redazione del Piano Urbanistico
 Generale (ex L.R. 19/2020 e ss.mm.ii.), e da discutere con il Consiglio Comunale e le relative
 Commissioni, con i Consigli di Circoscrizione e con tutti i portatori di interesse istituzionali,
 economici e sociali.
 
-L’ **Agenda “Palermo +”** ha lo scopo di proporre agli attori locali e ai portatori di interesse una
+L’**Agenda “Palermo +”** ha lo scopo di proporre agli attori locali e ai portatori di interesse una
 sfida di futuro, individuando le opportune strategie, locali e sovralocali, e definendo le relative
 politiche urbane intersettoriali, redigendo progetti di rigenerazione corredati dalle necessarie
 regole che consentiranno l’attuazione delle strategie e degli interventi, confidando nella
 certezza delle decisioni, dei tempi e delle procedure più efficaci. 
 
-L’ **Agenda “Palermo +”** ha un orizzonte di lungo termine (per il completamento delle trasformazioni necessarie servono i
+L’**Agenda “Palermo +”** ha un orizzonte di lungo termine (per il completamento delle trasformazioni necessarie servono i
 tempi lunghi della stabilità decisionale e della continuità amministrativa) e una capacità di
 azione nel breve e medio termine che consenta di verificare la correttezza della strada
 intrapresa producendo risultati concreti per la rigenerazione, la qualità e lo sviluppo della città.
@@ -130,7 +134,7 @@ Un’Agenda di azioni che pretende un pensiero lungo, che guardi oltre l’emerg
 contingenza (risolvendo i problemi emergenziali), e un’azione quotidiana fatta di
 responsabilità, cura e capacità amministrativa.
 
-L’ **Agenda “Palermo +”** stimola l’integrazione dei progetti di valorizzazione di alcune aree, già
+L’**Agenda “Palermo +”** stimola l’integrazione dei progetti di valorizzazione di alcune aree, già
 oggetto di visioni progettuali, o di processi di trasformazione, rendendo la città più sostenibile
 e attrattiva, più giusta e sicura, più bella e dinamica, e sollecitando l’interesse dei molteplici
 soggetti che agiscono nel governo del territorio a compartecipare alla realizzazione e gestione

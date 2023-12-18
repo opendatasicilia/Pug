@@ -82,6 +82,3 @@ coinvolgimento e i decisori possono prendere decisioni più informate e in linea
 della comunità. Infine, l’IA può essere utilizzata anche per individuare le numerose barriere
 architettoniche per le persone con disabilità sparse per la città, per rimuoverle e, soprattutto,
 per progettare ambienti urbani più accessibili.
-
-
-

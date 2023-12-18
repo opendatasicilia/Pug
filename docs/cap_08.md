@@ -286,7 +286,3 @@ recupero e sviluppo che ne indebolirebbe l’impatto, ne ridurrebbe i benefici, 
 le criticità d’uso e, infine, allontanerebbe nel tempo il ritorno dell’investimento delle risorse
 pubbliche e di quelle dei partner e investitori privati interessati.
 
-
-
-
-

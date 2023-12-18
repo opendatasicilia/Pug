@@ -12,7 +12,7 @@ voglia essere la città nel prossimo ventennio è premessa indispensabile per in
 di sviluppo e gli scenari di trasformazione e le conseguenti zonizzazioni, funzioni e norme
 urbanistiche che comporranno il nuovo PUG.
 
-L’ **Agenda “Palermo +”** , quindi, propone alcuni assi di sviluppo capaci di declinare in chiave
+L’**Agenda “Palermo +”** , quindi, propone alcuni assi di sviluppo capaci di declinare in chiave
 urbana e metropolitana il diritto all’accesso ai servizi pubblici, il diritto alla qualità della vita, il
 diritto all’educazione e alla formazione professionale, il diritto alla sicurezza, alla salute e al
 _welfare_ urbano, il diritto all’accesso al mercato del lavoro. L’agenda è indispensabile per
@@ -58,7 +58,7 @@ L’analisi SWOT sintetica (punti di forza, punti di debolezza, opportunità e m
 consente di selezionare le risorse e individuare le componenti principali per determinare
 scenari e obiettivi di sviluppo.
 
-_3.1.1. Punti di forza da valorizzare_
+### 3.1.1. Punti di forza da valorizzare
 
 - **Cosmopolitismo, identità mediterranea e creatività** – L’attitudine storicizzata
     all’incrocio di culture e la tradizione multietnica producono quadri consolidati (e spesso
@@ -86,7 +86,7 @@ _3.1.1. Punti di forza da valorizzare_
     ma anche come un attivatore di resilienza urbana. Il riciclo degli “scarti”, soprattutto
     quelli infrastrutturali, concorre anche al ripristino della permeabilità dei suoli.
 
-_3.1.2. Punti di debolezza da eliminare_
+### 3.1.2. Punti di debolezza da eliminare
 
 - **Monocentricità del sistema insediativo**. La città, dal punto di vista insediativo e della
     localizzazione dei servizi di rango urbano, è ancora basata su un modello
@@ -107,8 +107,10 @@ _3.1.2. Punti di debolezza da eliminare_
     prodotto stati di forte fragilità territoriale con incremento delle condizioni di rischio e un
     consumo di suolo sproporzionato rispetto alle reali necessità della popolazione.
 - **Basso dinamismo del mercato del lavoro e del sistema economico locale**. Ancora
-    scarso è il dinamismo economico della città, nonostante gli interventi di
-_3.1.3. Opportunità da cogliere_
+    scarso è il dinamismo economico della città, nonostante gli interventi di defiscalizzazione 
+	nelle Zone Economiche Speciali e alcuni segnali di innovazione creativa all’interno del tessuto urbano. 
+	
+### 3.1.3. Opportunità da cogliere
 
 - **Programma di mobilità sostenibile**. Gli interventi appena ultimati, quelli in corso di
     ultimazione e quelli previsti sul tema della mobilità collettiva e condivisa stanno
@@ -141,7 +143,7 @@ _3.1.3. Opportunità da cogliere_
     merci, che potranno ulteriormente essere integrate con contenuti operativi per la
     nascita del super-organismo metropolitano e per la sua efficacia gestionale.
 
-_3.1.4. Minacce da sventare_
+### 3.1.4. Minacce da sventare
 
 - **Indeterminatezza delle funzioni metropolitane**. La complessità dell’attuazione della
     riforma delle città metropolitane siciliane produce un evidente indebolimento del quadro
@@ -193,7 +195,7 @@ resilienti e inclusivi, attraverso azioni specifiche capaci di coniugare l’int
 quello privato, l’azione locale con quella sovralocale, così da massimizzare i necessari effetti
 di sistema.
 
-_3.2.1. La città della qualità_
+### 3.2.1. La città della qualità
 I paesaggi urbani e rurali rappresentino elementi dai forti valori identitari, pur nella loro pluralità
 e differenziale di intensità, pretendendo una maggiore attenzione alla loro qualità per rafforzare
 l’appartenenza delle persone ai luoghi e favorire la coesione sociale. Lo scenario della città
@@ -240,7 +242,7 @@ I macro-obiettivi che il PUG dovrà perseguire sono:
     incontrollata;
 - incrementare la qualità del paesaggio naturale urbano e riconnetterlo con quello rurale.
 
-_3.2.2. La città resiliente_
+### 3.2.2. La città resiliente
 La riduzione di consumi (suolo, acqua, aria, energie non rinnovabili, rifiuti) e l’aumento della
 sicurezza (sismica, idraulica, idrogeologica, sociale e sanitaria) sono gli obiettivi del secondo
 scenario che si prefigge di promuovere una città resiliente, capace di reagire alle crisi,
@@ -292,7 +294,7 @@ I principali macro-obiettivi che il PUG dovrà perseguire sono:
 - realizzare una più efficace prossimità dei servizi di quartiere, nel progetto della “città
     dei 15 minuti”.
 
-_3.2.3. La città innovativa_
+### 3.2.3. La città innovativa
 Lo scenario promuove una crescita intelligente sviluppando un’economia più efficiente e
 competitiva, basata sulla conoscenza e l’innovazione. Si prefigge di creare sinergie tra le
 aziende e la ricerca, favorire la diffusione e il trasferimento tecnologico, facilitare lo sviluppo e
@@ -328,7 +330,7 @@ I principali macro-obiettivi che il PUG dovrà perseguire sono:
 - promuovere l’applicazione di tecnologie innovative nell’edilizia, nel risparmio
     energetico, nella sicurezza e tutela dell’ambiente, nella valorizzazione del paesaggio.
 
-_3.2.4. La città interconnessa_
+### 3.2.4. La città interconnessa
 È lo scenario che definisce e promuove le relazioni metropolitane ‑ fisiche e immateriali - e
 mette a sistema le azioni che fanno riferimento ai precedenti scenari. Prende l’avvio dalla
 considerazione che un sistema territoriale si evolve a partire dalla modifica delle relazioni tra
@@ -367,4 +369,3 @@ azioni, complesse e integrate, traguardate verso i seguenti macro-obiettivi:
     l’attrattività dei quartieri in funzione dei diversi tipi di abitanti temporanei;
 - realizzate spazi accessibili alle persone con disabilità promuovendo interventi mirati
     alla eliminazione delle barriere architettoniche.
-

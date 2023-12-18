@@ -7,7 +7,7 @@ L’elaborazione del PUG, in tutte le fasi del processo di formazione, verrà cu
 Piano, incardinato nell’Area della Pianificazione Territoriale, coordinato dal Responsabile del
 procedimento, la cui attività viene di schematizzata secondo le seguenti fasi:
 
-**FASE O. Impostazione e ascolto**
+### FASE O. Impostazione e ascolto
 
 - acquisizione delle Linee Guida dell’Amministrazione Comunale deliberate dalla Giunta;
 - pubblicazione dell’Avviso di avvio del procedimento;
@@ -18,7 +18,7 @@ procedimento, la cui attività viene di schematizzata secondo le seguenti fasi:
 - raccolta, elaborazione e valutazione dei contributi pervenuti a seguito dell’Avviso;
 - creazione dell’Urban Center e della piattaforma telematica comunale;
 
-**FASE 1. Quadro conoscitivo**
+### FASE 1. Quadro conoscitivo
 
 - predisposizione della carta dei vincoli;
 - predisposizione della carta delle trasformabilità;
@@ -26,12 +26,12 @@ procedimento, la cui attività viene di schematizzata secondo le seguenti fasi:
     Comunale (PUMS, PGTU, PUDM, PEBA, etc.);
 - elaborazione degli studi propedeutici di settore;
 
-**FASE 2. Documento preliminare**
+### FASE 2. Documento preliminare
 
 - predisposizione del Documento preliminare in conformità al comma 4 dell’art. 26 e
     comma 7 dell’art. 25 (elaborati del PUG) della L.R. 19/2020 e ss.mm.ii.;
 
-**FASE 3. Consultazioni e valutazioni**
+### FASE 3. Consultazioni e valutazioni
 
 - deposito nel Portale Regionale per le Valutazioni e Autorizzazioni Ambientali della
     documentazione costituita dal Documento preliminare del PUG e dalla relativa
@@ -44,7 +44,7 @@ procedimento, la cui attività viene di schematizzata secondo le seguenti fasi:
 - pubblicazione attraverso il sito web del Comune e dell'Assessorato regionale del
     territorio e dell'ambiente;
 
-**FASE 4. Progetto definitivo**
+### FASE 4. Progetto definitivo
 
 - elaborazione del Progetto definitivo del PUG;
 - indizione della Conferenza di pianificazione prevista dall'articolo 10 della Legge,
@@ -62,7 +62,7 @@ procedimento, la cui attività viene di schematizzata secondo le seguenti fasi:
     mediante il deposito presso i propri uffici di copia cartacea e la pubblicazione sul sito
     web del Comune e dell'Assessorato Regionale del Territorio e Ambiente.
 
-**FASE 5. Osservazioni**
+### FASE 5. Osservazioni
 
 -	acquisizione delle osservazioni, visualizzate su apposite planimetrie, contro-deduzioni
     dell’Ufficio del Piano, trasmissione dal Responsabile del procedimento al Consiglio

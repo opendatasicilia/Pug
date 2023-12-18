@@ -37,12 +37,13 @@ inviato al Consiglio Comunale nel 1994, esso è stato adottato per la prima volt
 poi, successivamente, nel 2000 (prescrizioni esecutive) e nel 2001 (elaborati adeguati al
 nuovo regime vincolistico), per essere approvato, con stralci e raccomandazioni, nel 2002,
 (D.Dir 124 e 558/DRU/02) a conclusione dei due anni di proroga delle norme di salvaguardia
-concesse dalla Regione Siciliana. Considerata la complessità degli stralci e raccomandazioni
-dei decreti approvativi, il nuovo PRG assume piena vigenza solo dopo il lavoro di adeguamento
-degli elaborati di piano alle disposizioni di detti provvedimenti e la “Presa d’Atto” degli
-adeguamenti effettuata dal Consiglio Comunale nel febbraio 2004. Dal 13.03.2007, a cinque
-anni dalla sua approvazione, ai sensi dell’art.9 del D.P.R. 327/01 e ss.mm.ii., sono decaduti
-i vincoli preordinati all’esproprio.
+concesse dalla Regione Siciliana. 
+
+Considerata la complessità degli stralci e raccomandazioni dei decreti approvativi, il nuovo PRG 
+assume piena vigenza solo dopo il lavoro di adeguamento degli elaborati di piano alle disposizioni 
+di detti provvedimenti e la “Presa d’Atto” degli adeguamenti effettuata dal Consiglio Comunale nel febbraio 2004. 
+Dal 13.03.2007, a cinque anni dalla sua approvazione, ai sensi dell’art.9 del D.P.R. 327/01 e ss.mm.ii., 
+sono decaduti i vincoli preordinati all’esproprio.
 
 Nel 2012, ai sensi dell’art.3 della Legge Regionale n. 15 del 1991, è stata avviata la
 revisione del PRG, procedendo alla preliminare approvazione sequenziale, da parte del
@@ -52,9 +53,8 @@ al Consiglio Comunale per avviare l’iter approvativo ma mai prelevato dall’o
 discusso e, ad inizio di nuova consiliatura, ritirato per procedere alla redazione del PUG in
 base alla nuova legge urbanistica regionale.
 
-La redazione del PUG, secondo le disposizioni della nuova legge urbanistica regionale,
-
-consentirà, quindi, di eliminare tutte le criticità riscontrate nell’attuazione del vigente PRG ed
+La redazione del PUG, secondo le disposizioni della nuova legge urbanistica regionale,consentirà, 
+quindi, di eliminare tutte le criticità riscontrate nell’attuazione del vigente PRG ed
 inerenti, in prima analisi, a:
 
 - aggiornamento cartografico per il mutato stato dei luoghi;
@@ -191,7 +191,7 @@ lettura dei quadri analitico-interpretativi a disposizione dell’Amministrazion
 derivanti da rapporti di soggetti terzi. Di seguito vengono sintetizzate le principali politiche che
 guideranno l’azione del PUG.
 
-_2.2.1. Le politiche ambientali_
+### 2.2.1. Le politiche ambientali
 Il nuovo PUG dovrà innestare la dimensione e la qualità ambientale nell’ambito della sua
 formazione. La dimensione ambientale ha assunto in Europa, a partire dagli anni Ottanta del
 XX secolo, un'importanza crescente, modulata e orientata su principi/obiettivi di precauzione,
@@ -264,7 +264,7 @@ alla funzione di miglioramento delle condizioni climatiche, paesaggistiche, di
 decarbonizzazione, anche la funzione di rilevamento di inquinanti e climalteranti (vere e
 proprie centraline verdi).
 
-_2.2.2 Le politiche di area vasta_
+### 2.2.2 Le politiche di area vasta
 Il Comune di Palermo, a partire dal 2011 e poi nel 2015, si è già dotato di un Piano Strategico
 come processo/strumento di pianificazione per determinare e mantenere viva l’attenzione
 sull’assetto del territorio e sulle scelte di sviluppo metropolitano, con la finalità ulteriore di
@@ -365,7 +365,7 @@ luoghi, diversificando anche il sistema della portualità in una ottica di speci
 complementarietà con l’ambito urbano, nonché migliorando la qualità paesaggistica delle fasce
 costiere e montane.
 
-_2.2.3. La necessità di rivedere la pianificazione particolareggiata_
+###  2.2.3. La necessità di rivedere la pianificazione particolareggiata
 Il Piano vigente prevede il ricorso alla pianificazione particolareggiata nelle Zone Territoriali
 Omogenee A2, B0, B4 e D2, negli ambiti interessati da agglomerati edilizi in ex zone agricole,
 nella fascia costiera e nelle zone F di superficie superiore a un ettaro. Pertanto, in tutte le zone
@@ -375,7 +375,7 @@ piccolissima parte di questi piani è stata approvata, a causa della complessit�
 seguire. Il PUG dovrà sanare queste lacune di pianificazione e normazione di importanti parti
 del territorio per ricondurle a una pianificazione urbanistica unitaria e adeguata.
 
-_2.2.4. Le politiche di garanzia della coesione sociale_
+###  2.2.4. Le politiche di garanzia della coesione sociale
 La redazione del PUG rappresenta un’occasione per verificare il soddisfacimento della
 dotazione di servizi secondo il loro ruolo urbano ed in relazione alle condizioni di accessibilità,
 con particolare riferimento alle esigenze della persona e delle famiglie, degli anziani e dei
@@ -391,7 +391,7 @@ trasformazione dei bisogni in impresa, mantenendo sempre la persona al centro, a
 vengono riconosciuti i propri diritti. Alle politiche sociali vanno accompagnate azioni di
 adeguata localizzazione dei servizi per agire concretamente nella dimensione del quartiere.
 
-_2.2.5. Le politiche della mobilità sostenibile_
+###  2.2.5. Le politiche della mobilità sostenibile
 La pianificazione urbanistica della mobilità dovrà approfondire le problematiche e i temi del
 sistema di trasporto integrati con il Piano Urbano della Mobilità Sostenibile (PUMS) già redatto
 e adottato con Delibera di Giunta Comunale n. 121 del 03/07/2019 (e in corso di
@@ -488,7 +488,7 @@ maglia principale urbana, rendono più evidenti le problematiche connesse con l�
 della struttura radiale stradale che dalla città densa si estende verso la circonvallazione e verso
 le periferie.
 
-_2.2.6. Le politiche della cultura, del turismo e dei servizi alle imprese_
+###  2.2.6. Le politiche della cultura, del turismo e dei servizi alle imprese
 Il posizionamento geografico e culturale di Palermo, la sua eccellenza artistica e
 monumentale, la forte identità culturale e il suo storico connotato interculturale la rendono una
 candidata ideale per un ruolo di centralità nello spazio mediterraneo.
@@ -525,7 +525,7 @@ potenziamento dei settori della ricerca e della formazione (Università, Diparti
 ricerca, Policlinico) e alla valorizzazione dei poli di eccellenza in campo internazionale e
 culturale.
 
-_2.2.7. Le politiche per la valorizzazione del capitale urbano sociale_
+### 2.2.7. Le politiche per la valorizzazione del capitale urbano sociale
 L’ambiente naturale, il tessuto edilizio storico e il tessuto urbano sono i capitali sociali della
 città, di cui la collettività insediata dispone e che deve mettere in valore attraverso azioni che
 rendano la città attrattiva e competitiva, e mantengano, al contempo, il suo bilancio sociale
@@ -606,7 +606,7 @@ la corposa rete dell’associazionismo che negli ultimi anni ha portato avanti t
 di riqualificazione che oggi necessitano di essere collocate entro un quadro più generale di
 coerenza.
 
-_2.2.8. Le politiche di soddisfacimento del fabbisogno abitativo_
+### 2.2.8. Le politiche di soddisfacimento del fabbisogno abitativo
 Nel contesto delle attività di formazione del PUG occorre prevedere studi e ricerche puntuali
 per la stima del fabbisogno abitativo sotto i molteplici aspetti, demografici, sociali ed economici.
 In generale va premesso che, se nella fase della grande crescita della città un’attenta
@@ -684,7 +684,7 @@ Come esplicitamente previsto dalla legge, infatti, occorrerà affiancare gli stu
 studi di natura specialistica al fine di individuare nel piano strategie che indirizzino le azioni
 delle imprese all’interno del quadro delle attività di pianificazione previste.
 
-_2.2.9. L’attuazione delle previsioni urbanistiche_
+### 2.2.9. L’attuazione delle previsioni urbanistiche
 In riferimento agli avanzamenti disciplinari, ai quali solo recentemente è seguito un
 aggiornamento normativo per la Regione Siciliana con la L.R. 19/2020, negli ultimi anni il
 dibattito si è concentrato sull’attuazione delle previsioni di Piano. La mancata attuazione delle
@@ -739,7 +739,7 @@ amministrativi si coniughino con gli aspetti urbanistici e le valutazioni econom
 PUG, infatti, dovrà essere dotato di uno studio di fattibilità economico finanziario che ne
 accompagni e ne faciliti l’attuazione.
 
-_2.2.10. Considerazioni conclusive_
+### 2.2.10. Considerazioni conclusive
 Gli adeguamenti necessari sopra elencati prefigurano un vasto ventaglio di possibili modifiche
 da effettuare, più o meno incisive, a seconda del peso che assumeranno le varie problematiche
 affrontate, che saranno sottoposte non solo all’attenzione del Consiglio Comunale, in modo

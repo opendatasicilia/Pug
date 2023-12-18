@@ -99,11 +99,10 @@ progettazione. Inoltre, nel contesto degli interventi di restauro urbano, dovrà
 la possibilità di sostituzione degli edifici dissonanti, e individuati i meccanismi
 urbanistico/finanziari che ne facilitano l’attuazione. 
 
-In merito al “netto storico” ricadente al di
-fuori dei contesti storici consolidati, va effettuata una nuova verifica dell’attualità delle valenze
-storico architettoniche degli immobili, in riferimento al contesto urbano entro cui sono inseriti,
-sia nelle sue condizioni attuali sia in quelle di trasformazione/riqualificazione ipotizzate dal
-progetto di PUG.
+In merito al “netto storico” ricadente al di fuori dei contesti storici consolidati, va effettuata 
+una nuova verifica dell’attualità delle valenze storico architettoniche degli immobili, in riferimento 
+al contesto urbano entro cui sono inseriti, sia nelle sue condizioni attuali sia in quelle di 
+trasformazione/riqualificazione ipotizzate dal progetto di PUG.
 
 **Rigenerare e recuperare i tessuti della città storica.** Il centro storico di Palermo si presenta
 ancora oggi degradato sia sul piano edilizio che su quello sociale in alcune aree (troppe) in cui
@@ -769,7 +768,7 @@ della città. Serve un museo che sia un dispositivo complesso per formare i citt
 spazio urbano e non solo un edificio, una infrastruttura culturale e non solo un servizio, una
 sineddoche del museo diffuso.
 
-**Realizzare l** ’ **asse multiservizi della direzionalità e del commercio lungo la via Ugo La
+**Realizzare l**’**asse multiservizi della direzionalità e del commercio lungo la via Ugo La
 Malfa nord.** Realizzare un asse dei servizi, tradizionali e innovativi, riammagliando i tessuti
 sfrangiati di via Ugo La Malfa nord attraverso la progettazione di interfacce vegetali, sportive
 e di spazio pubblico che ricostituiscano un tessuto urbano in sostituzione del tessuto
@@ -1041,4 +1040,3 @@ reimmettere nel bilancio comunale. Sarà nel dibattito pubblico scaturito dal co
 e condivisione di questo documento e nel negoziato con i portatori di interesse durante la
 redazione del PUG che verranno dettagliate le modalità di attuazione delle proposte e
 individuate le fonti finanziarie necessarie e le risorse che possono scaturire dalla corretta attuazione degli obiettivi.
-
