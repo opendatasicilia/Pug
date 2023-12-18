@@ -20,8 +20,7 @@
     letter-spacing: -.01em;
     color: #4980bb;
 }
-.md-typeset h3 { color: #4980bb;
-}
+.md-typeset h3 { color: #4980bb;}
 
 .md-typeset a {color: #ff9900;}
 .md-ellipsis {
@@ -29,6 +28,9 @@
     text-overflow: ellipsis;
     font-weight: 600;
 }
+.md-nav__title { color: #4980bb; font-size: .6rem;}
+	
+	
 /*testo indice dx*/
 .md-nav {
     font-size: .5rem;
@@ -52,6 +54,7 @@
     touch-action: auto;
 }
 img {    box-shadow: 0 1px 2.5px rgba(0,0,0,0.65);  border-radius: 5px;  moz-border-radius: 5px;   aspect-ratio: auto;}
+img.nobox {box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;	}
 
 /* Admonitions - info */
 .md-typeset .admonition.info, .md-typeset details.info {border-color: #0000001f;}
