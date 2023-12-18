@@ -61,6 +61,11 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
+         <loc>https://opendatasicilia.github.io/Pug/index_01/</loc>
+         <lastmod>2023-12-18</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
          <loc>https://opendatasicilia.github.io/Pug/privacy/</loc>
          <lastmod>2023-12-18</lastmod>
          <changefreq>daily</changefreq>

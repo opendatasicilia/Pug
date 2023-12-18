@@ -27,8 +27,8 @@
     color: #4980bb;
 }
 .md-typeset h3 { color: #4980bb;}
-
-.md-typeset a {color: #ff9900;}
+/*
+.md-typeset a {color: #ff9900;}*/
 .md-ellipsis {
     overflow: hidden;
     text-overflow: ellipsis;
@@ -40,6 +40,8 @@
 .md-footer__title {color: #4980bb;}
 .md-footer__button { color: #4980bb;}
 
+/* linea separazione */
+hr  {border: 0;    height: 0.5px;   background: #4980bbf7!important;   background-image: linear-gradient(to right,  #fff, #4980bbf7,  #fff)!important;margin-top:20px;margin-bottom:20px;}
 
 /*testo indice dx*/
 .md-nav {
