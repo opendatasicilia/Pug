@@ -89,20 +89,17 @@ extra:
       link: http://opendatasicilia.it/
       name: opendatasicilia.it  
     - icon: fontawesome/brands/github
-      link: https://github.com/coseerobe/coseerobe.github.io
+      link: https://github.com/opendatasicilia
       name: Repository GitHub  
     - icon: fontawesome/solid/envelope
-      link: mailto:coseerobe.gbvitrano@gmail.com
-      name: coseerobe.gbvitrano@gmail.com
+      link: https://groups.google.com/g/opendatasicilia?pli=1
+      name: Google Groups
     - icon: fontawesome/brands/twitter
-      link: http://twitter.com/gbvitrano
+      link: https://twitter.com/opendatasicilia
       name: Twitter
     - icon: fontawesome/brands/facebook
-      link: https://www.facebook.com/gbvitrano
+      link: https://www.facebook.com/groups/opendatasicilia
       name: Facebook      
-    - icon: fontawesome/solid/rss
-      link: https://arigadicomando.it/feed_rss_created.xml
-      name: Feed RSS
     - icon: fontawesome/brands/creative-commons
       link: https://creativecommons.org/licenses/by-sa/4.0/deed.it
       name: Attribuzione - Condividi allo stesso modo 4.0 Internazionale (CC BY-SA 4.0)     
