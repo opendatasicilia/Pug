@@ -12,10 +12,10 @@ social_image: assets/img/social/social_card.jpg
 <p style=" text-align: center;font-size: 38px; color: #4980bb;">Direttive Generali per la formazione del Piano Urbanistico Generale (PUG)</p><br>
 
 ![pug](assets/img/base.jpg "Direttive Generali per la formazione del Piano Urbanistico Generale (PUG)" ){class="centro"}
-<br>
-
+<br><br>
+[Consulta le Direttive Generali - PUG](cap_01.md "Consulta le Direttive Generali - PUG"){.centro1 .md-button .md-button--primary}
 <p><span style="color: #4980bb;">
-Il Sindaco: On. Prof. Roberto Lagalla<br>
+<br>Il Sindaco: On. Prof. Roberto Lagalla<br>
 L’Assessore all’urbanistica e alla rigenerazione urbana: Prof. Maurizio Carta<br>
 Gli Assessori: Pietro Alongi, Alessandro Anello, Giampiero Cannella, Dario Falzone, Giuliano Forzinetti, Salvatore Orlando, Rosalia Pennino, Aristide Tamajo, Antonella Tirrito, Carolina Varchi <br>
 Il Capo Area: Ing. Marco Ciralli <br>
