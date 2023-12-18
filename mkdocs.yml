@@ -1,8 +1,8 @@
 ## Project information
-site_name:  Direttive Generali per la formazione del Piano Urbanistico Generale
+site_name:  Direttive Generali per la formazione del Piano Urbanistico Generale (P.U.G.) | Comune di Palermo
 site_url: https://opendatasicilia.github.io/Pug/
 site_author: gbvitrano
-site_description: Direttive Generali per la formazione del Piano Urbanistico Generale | Comune di Palermo
+site_description: Direttive Generali per la formazione del Piano Urbanistico Generale (P.U.G.) | Comune di Palermo
    
 ## Repository
 # repo_name: PUG
@@ -45,7 +45,7 @@ theme:
       css:  fontawesome/brands/css3    
       Incendi: fontawesome/solid/fire
       
-  logo: assets/img/acquila.png
+  logo: assets/img/logo.png
   
   features:
   #  - toc.integrate
@@ -178,7 +178,7 @@ markdown_extensions:
 # menu
 nav:
   - Home: index.md
-  - Direttive Generali Piano Urbanistico Generale: 
+  - Direttive Generali Piano Urbanistico Generale (P.U.G.): 
      - 1. Il piano urbanistico generale verso “Palermo +”: cap_01.md
      - 2. Le ragioni e le opportunita’ di un piano urbanistico generale: cap_02.md
      - 3. Agenda Palermo + la visione e gli assi di sviluppo:  cap_03.md

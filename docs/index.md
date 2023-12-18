@@ -1,5 +1,5 @@
 ---
-title: Direttive Generali per la formazione del Piano Urbanistico Generale
+title: Direttive Generali per la formazione del Piano Urbanistico Generale (P.U.G.) | Comune di Palermo
 hide:
   - navigation
   - toc
@@ -12,7 +12,7 @@ social_image: assets/img/social/social_card.jpg
 
 <p style="text-align: center;font-size: 30px; color: #4980bb;">Città di Palermo<br>
 <span style="font-size: 25px!important;" >Assessorato all'Urbanistica e alla Rigenerarazione Urbana</span></p>
-<p style=" text-align: center;font-size: 38px; color: #4980bb;">Direttive Generali per la formazione del Piano Urbanistico Generale (PUG)</p>
+<p style=" text-align: center;font-size: 38px; color: #4980bb;">Direttive Generali per la formazione del Piano Urbanistico Generale (P.U.G.)</p>
 
 [![Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio](assets/img/Palermo.jpg "Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio" )](cap_01.md ){class="centro"}
 <br>
