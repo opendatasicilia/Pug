@@ -3,6 +3,8 @@
 	--md-footer-fg-color: #121423; /*colore footer link page avanti/indietro */ 
 	--md-footer-bg-color: #ffffff; }
 [dir=ltr] .md-header__title { color: #4980bb;}	
+a { color: #666666;  text-decoration: none;}
+p {color: #666666;}
 	
 /* logo personalizzato*/
  .md-header__button.md-logo img, .md-header__button.md-logo svg {height:3rem!important;    /*width: 5rem!important; padding-right: 3rem!important;*/ box-shadow: none !important; border: none !important;	border-radius:  none !important;	moz-border-radius: none !important; -webkit-border-radius: none !important;	background-color: transparent !important;}
@@ -36,7 +38,7 @@
 }
 .md-nav__title { color: #4980bb; font-size: .6rem;}
 .md-tabs__item {color: #4980bb;}	
-.md-footer__direction {color: #4980bb;}
+.md-footer__direction {color: #666666;}
 .md-footer__title {color: #4980bb;}
 .md-footer__button { color: #4980bb;}
 

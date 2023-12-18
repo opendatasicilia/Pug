@@ -7,7 +7,7 @@ social_image: assets/img/social/social_card.jpg
 ---
 <style>
 .md-typeset h1 {display: none;}
-.md-typeset .grid {grid-gap: .4rem; font-size: .7rem;  display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,12rem),1fr));  margin: 1em 0; }
+.md-typeset .grid {grid-gap: .4rem; font-size: .7rem;  display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,25rem),1fr));  margin: 1em 0; }
 </style>
 
 <p style="text-align: center;font-size: 30px; color: #4980bb;">Città di Palermo<br>
