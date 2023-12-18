@@ -14,7 +14,7 @@ social_image: assets/img/social/social_card.jpg
 <span style="font-size: 25px!important;" >Assessorato all'Urbanistica e alla Rigenerarazione Urbana</span></p>
 <p style=" text-align: center;font-size: 38px; color: #4980bb;">Direttive Generali per la formazione del Piano Urbanistico Generale (PUG)</p>
 
-![pug](assets/img/Palermo.jpg "Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio " ){class="centro"}
+[![Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio](assets/img/Palermo.jpg "Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio" )](cap_01.md ){class="centro"}
 <br>
 
 <div class="grid cards" markdown>
