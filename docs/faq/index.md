@@ -9,8 +9,8 @@ social_image: assets/img/social/social_card.jpg
 .md-typeset .grid {grid-gap: .4rem; font-size: .7rem;  display: grid; grid-template-columns: repeat(auto-fit,minmax(min(100%,25rem),1fr));  margin: 1em 0; }
 </style>
 
-# Prepararsi al PUG di Palermo: come l’AI ci aiuta a comprendere le Direttive Generali per partecipare attivamente alla pianificazione della città
-
+# Come l’AI ci aiuta a comprendere le Direttive Generali per partecipare attivamente alla pianificazione della città
+## Strumenti digitali per comprendere il Piano Urbanistico Generale e contribuire alle scelte.
 Palermo si prepara a scrivere un nuovo capitolo della sua storia urbana grazie al **Piano Urbanistico Generale (PUG)**, uno strumento chiave che guiderà lo sviluppo della città nei prossimi decenni.<br>Questa volta, il piano non sarà scritto solo da tecnici e amministratori: i cittadini sono chiamati a prendere parte attiva al processo, attraverso una **fase di partecipazione pubblica** mai vista prima. <br>Per la prima volta, i cittadini non sono solo destinatari delle scelte urbanistiche, ma protagonisti attivi del futuro della città.
 
 In vista dell’avvio ufficiale delle consultazioni, [OpenDataSicilia](https://opendatasicilia.it/) ha utilizzato **l’intelligenza artificiale** per analizzare e sintetizzare le **Direttive Generali del PUG**, approvate dalla Giunta comunale il 15 dicembre 2023. <br>
