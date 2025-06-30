@@ -186,4 +186,10 @@ nav:
      - 8. La pianificazione attuativa: cap_08.md
      - 9. La partecipazione alla formazione del piano: cap_09.md
      - 10. Ufficio progettazione e gestione del PUG e delle fasi attuative: cap_10.md
-  - Comunicato stampa: comunicato.md 
+  - Faq: 
+     - faq/index.md
+     - Partecipazione: faq/partecipazione.md
+     - Sostenibilità: faq/sostenibilita.md
+     - Obiettivi e Visione: faq/obbiettivi.md
+     - Ambiti Strategici: faq/ambiti.md
+  - Comunicato stampa: comunicato.md

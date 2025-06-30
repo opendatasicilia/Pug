@@ -17,6 +17,7 @@ social_image: assets/img/social/social_card.jpg
 [![Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio](assets/img/Palermo.jpg "Direttive Generali per la formazione del Piano Urbanistico Generale (PUG) | Immagine da Google Earth Studio" )](cap_01.md ){class="centro"}
 <br>
 
+<hr>
 <div class="grid cards" markdown>
 
 - [:fontawesome-solid-file-invoice: __1.__ Il piano urbanistico generale verso “Palermo +”](cap_01.md "1. Il piano urbanistico generale verso “Palermo +”")
@@ -31,7 +32,26 @@ social_image: assets/img/social/social_card.jpg
 - [:fontawesome-solid-file-invoice: __10.__ Ufficio progettazione e gestione del PUG e delle fasi attuative](cap_10.md "10. Ufficio progettazione e gestione del PUG e delle fasi attuative")
 </div>
 <br>
+Il Piano Urbanistico Generale (PUG) di Palermo mira a rigenerare il tessuto urbano attraverso diversi approcci e strategie, con un focus sulla riqualificazione di aree degradate, la promozione della sostenibilità e il miglioramento della qualità della vita.
+Ecco i principali modi in cui il PUG interviene per la rigenerazione urbana:
 
+-    Recupero e riprogettazione dei tessuti esistenti:<br> Il PUG si concentra sul recupero e la riprogettazione di aree dismesse, vuoti urbani, ambiti degradati e aree libere intercluse. Questo approccio mira a far riemergere l'identità dei luoghi e reinserirli nel contesto urbano.
+-    Rigenerazione di insediamenti residenziali e produttivi:<br> Il PUG prevede la rigenerazione di quartieri di edilizia residenziale pubblica (ERP), come San Filippo Neri e Borgo Nuovo, e di aree artigianali. Questo processo mira a rafforzare l'identità e il senso di appartenenza degli abitanti.
+-    Riqualificazione di aree non impermeabilizzate:<br> Il PUG promuove un sistema integrato di interventi per la riqualificazione delle aree non impermeabilizzate, integrando politiche di tutela e valorizzazione ambientale.
+-    Interventi di "qualificazione edilizia":<br> Il PUG include la demolizione e ricostruzione di edifici di scarsa qualità, che non soddisfano i requisiti minimi di sicurezza e igiene. Sono inclusi anche interventi conservativi che migliorano gli edifici esistenti.
+-    Interventi di "ristrutturazione urbanistica":<br> Il PUG prevede interventi di ristrutturazione urbanistica, che possono includere la riqualificazione di aree degradate con possibili incrementi volumetrici, e la demolizione senza ricostruzione di edifici in aree con eccessiva concentrazione insediativa.
+-    Promozione di un sistema di mobilità sostenibile:<br> Il PUG mira a sviluppare un sistema di mobilità sostenibile, basato su spostamenti pedonali, ciclabili e sull'accesso al trasporto pubblico, migliorando l'accessibilità e riducendo la congestione.
+-    Riduzione dei consumi idrici ed energetici:<br> Il PUG persegue una significativa riduzione dei consumi idrici ed energetici tradizionali, favorendo l'uso di energie rinnovabili e l'autoconsumo.
+-    Bonifica di suoli inquinati e riduzione delle aree impermeabili:<br> Il PUG si impegna nella bonifica di suoli inquinati e nella riduzione delle aree impermeabili.
+-    Riqualificazione dei mercati storici:<br> Il PUG prevede la riqualificazione dei mercati storici come il Capo, Ballarò e la Vucciria, con l'obiettivo di connetterli al tessuto urbano circostante, favorire la residenza e le attività mercatali e integrarli con le attività di ristorazione e l'attrattiva turistica.
+-    Riqualificazione del waterfront:<br> Il PUG punta alla riqualificazione del waterfront, con la progettazione di aree interfaccia città-porto attraverso pedonalizzazioni e riqualificazioni delle piazze.
+-    Interventi di densificazione e multifunzionalità:<br> Il PUG prevede interventi di densificazione e multifunzionalità, come nell'area di via Imera, con la creazione di un parco lineare, usi residenziali e terziari e la connessione con aree verdi limitrofe.
+-    Realizzazione di poli per imprese creative e innovative:<br> Il PUG promuove la creazione di poli per imprese creative e innovative, ad esempio alla ex Manifattura Tabacchi, con strutture dedicate alla ricerca, all'innovazione e alla cultura.
+-    Riqualificazione dell'edilizia residenziale pubblica:<br> Il PUG intende rigenerare i quartieri di edilizia residenziale pubblica sia a livello edilizio che di quartiere, con interventi di efficientamento energetico e la creazione di eco-quartieri.
+-    Creazione e connessione di parchi e aree verdi:<br> Il PUG mira a connettere i parchi centrali e istituire parchi fluviali, come il parco fluviale dell'Oreto, oltre a estendere e integrare la rete ecologica metropolitana.
+-    Sostegno all'agricoltura urbana:<br> Il PUG promuove l'agricoltura urbana multifunzionale con orti condivisi, parchi agricoli e filiere corte per alimentare le scuole e contrastare la povertà alimentare.
+
+Il PUG promuove la partecipazione dei cittadini e la concertazione con gli enti pubblici e privati per garantire un'efficace governance dello sviluppo urbano. L'obiettivo finale è quello di trasformare Palermo in una metropoli più funzionale, competitiva, attenta all'ambiente e alla qualità della vita.
 <hr>
 <p><span style="color: #4980bb;">
 <br>Il Sindaco On. Prof. <a href="mailto:sindaco@comune.palermo.it" title="Email del Sindaco di Palermo">Roberto Lagalla</a> <br>
